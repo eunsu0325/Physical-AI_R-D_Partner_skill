@@ -1,5 +1,7 @@
 # Physical AI 연구개발·GitHub 공유 파트너
 
+> 게시·관리 계정: [eunsu0325](https://github.com/eunsu0325) · [저장소 바로가기](https://github.com/eunsu0325/Physical-AI_R-D_Partner_skill)
+
 **AI와 한국어로 연구개발을 의논하고 실행하며, 결과물을 팀원이 내려받아 활용할 수 있게 공유하기 위한 Codex 스킬 모음입니다.**
 
 문제의 원인을 정확히 모르거나 Git 명령을 잘 몰라도 현재 상황과 원하는 결과로 시작할 수 있습니다. AI가 접근 가능한 코드·문서·로그를 읽고 필요한 작업과 확인을 수행하도록 구성했습니다.
@@ -36,6 +38,10 @@ https://github.com/eunsu0325/Physical-AI_R-D_Partner_skill/tree/main/skills/phys
 두 개를 모두 쓰려면 두 경로를 함께 알려주고 설치를 요청해도 됩니다. 설치 후 다음 메시지에서 사용하세요. 목록에 보이지 않으면 설치 위치·중첩 폴더·비활성화 여부를 확인하고 Codex를 다시 시작하세요.
 
 ### 2. 현재 상황으로 요청
+
+설치가 끝나면 다음 메시지에서 `$github-rnd-sharing-ko`로 사용할 수 있습니다. GitHub에 파일이 올라가 있거나 저장소를 clone한 상태와 Codex의 스킬 설치는 별개입니다. 팀원도 자신의 Codex 환경에 필요한 스킬을 한 번 설치하세요. 이미 설치한 환경에서는 매번 설치할 필요가 없습니다.
+
+스킬 이름을 붙이면 명시적으로 호출할 수 있고, 일반적인 GitHub 공유 요청에서도 Codex가 설명을 보고 선택할 수 있습니다. 목록에 나타나지 않으면 설치 위치를 확인하고 Codex를 다시 시작하세요.
 
 ```text
 $github-rnd-sharing-ko
