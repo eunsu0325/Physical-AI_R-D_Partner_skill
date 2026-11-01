@@ -1,0 +1,4 @@
+interface:
+  display_name: "피지컬 AI 연구개발·유지보수 파트너"
+  short_description: "관찰과 가설부터 코드·실험·회귀·복구까지 함께 판단하는 한국어 피지컬 AI 파트너"
+  default_prompt: "$physical-ai-rnd-partner-ko 내 관찰과 가설에서 출발해 근거·대안을 함께 검토하고, 필요한 구현과 검증을 수행하며 다음 판단을 의논해줘."
